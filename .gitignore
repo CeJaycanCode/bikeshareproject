@@ -1,0 +1,6 @@
+*.csv
+# this is ignoring the larger csv files 
+._chicago.csv
+._new_york_city.csv
+._washington.csv
+#following directions and adding each individual file by name
