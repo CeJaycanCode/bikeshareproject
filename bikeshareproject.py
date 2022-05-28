@@ -147,11 +147,11 @@ def time_stats(df):
     top_month = df['month'].mode()[0]
     top_month_name = calendar.month_name[top_month]
     
-    print ("\nThe most frequent month for travelling is:", top_month_name)
+    print ("\nThe most Frequent Month for Travelling is:", top_month_name)
        
     # display the most common day of week
     top_day = df['day_of_week'].mode()[0]
-    print ("\nThe most frequent day of the week for travelling is:", top_day)
+    print ("\nThe most frequent Day of the Week for Travelling is:", top_day)
 
            
     # display the most common start hour
