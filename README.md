@@ -3,10 +3,9 @@ PYTHON SCRIPT THAT EXPLORES US BIKESHARE DATA
 This python project is a part of Udacity's Nano Degree Program and designed to teach students practical uses for Python coding utilizing real-world data. After importing raw data as a csv document, an innovative and interactive project was created to present the raw statistics in a more aesthetic and readable form. 
 The interactive program asks the user different questions and presents the data accordingly, taking into account user error, typos, and unavailable data using loops to circumvent various scenarios.
 
-<<<<<<< HEAD
 
 
->>>>>>> documentation
+
 
 FUNCTIONS USED
 
