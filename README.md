@@ -18,11 +18,10 @@ DATA SETS USED
 These were all randomly selected data from Chicago, New York City and Washington from 2017. All of the data files contain the same columns: Start Time, End Time, Trip duration, Start Station, End station, User Type (Subscriber or Customer)
 Chicago And New York City files have additional columns: Gender and Birth Year
 
-<<<<<<< HEAD
 
 =======
 QUESTIONS ASKED WITH INTERACTION
->>>>>>> documentation
+
 
 •	Most popular travel times, including the most common day of travel and the most popular hour of travel.
 •	Most popular start and end station9s, and most frequent combinations of start and end stations
